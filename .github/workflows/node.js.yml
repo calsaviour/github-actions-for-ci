@@ -36,10 +36,3 @@ jobs:
         npm test
       env:
         CI: true
-        
-        
-        
-        
-  test:
-    runs-on: ubutu-latest
-    
